@@ -1,34 +1,34 @@
 window.addEventListener(&#39;DOMContentLoaded&#39;, function() {
-data = { &quot;@context&quot;: &quot;https://schema.org&quot;, 
- &quot;@type&quot;: &quot;Article&quot;,
- &quot;headline&quot;: Stitle,
- //&quot;alternativeHeadline&quot;: &quot;This article is also about robots and stuff&quot;,
- &quot;image&quot;: Simage,
- &quot;author&quot;: &quot;Altaf Hussain Patel&quot;, 
- &quot;genre&quot;: &quot;search engine optimization&quot;, 
- &quot;keywords&quot;: &quot;seo sales b2b&quot;, 
- &quot;wordcount&quot;: &quot;1120&quot;,
-&quot;publisher&quot;: {
-    &quot;@type&quot;: &quot;Organization&quot;,
-    &quot;name&quot;: &quot;Google&quot;,
-    &quot;logo&quot;: {
-      &quot;@type&quot;: &quot;ImageObject&quot;,
-      &quot;url&quot;: &quot;https://google.com/logo.jpg&quot;
+data = { "@context": "https://schema.org", 
+ "@type": "Article",
+ "headline": Stitle,
+ //"alternativeHeadline": "This article is also about robots and stuff",
+ "image": Simage,
+ "author": "Altaf Hussain Patel", 
+ "genre": "search engine optimization", 
+ "keywords": "seo sales b2b", 
+ "wordcount": "1120",
+"publisher": {
+    "@type": "Organization",
+    "name": "Google",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://google.com/logo.jpg"
     }
   },
- &quot;url&quot;: &quot;http://www.example.com&quot;,
-   &quot;mainEntityOfPage&quot;: {
-    &quot;@type&quot;: &quot;WebPage&quot;,
-    &quot;@id&quot;: &quot;https://google.com/article&quot;
+ "url": "http://www.example.com",
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://google.com/article"
   },
- &quot;datePublished&quot;: &quot;2015-09-20&quot;,
- &quot;dateCreated&quot;: &quot;2015-09-20&quot;,
- &quot;dateModified&quot;: &quot;2015-09-20&quot;,
- &quot;description&quot;: &quot;We love to do stuff to help people and stuff&quot;,
- &quot;articleBody&quot;: &quot;You can paste your entire post in here, and yes it can get really really long.&quot;
+ "datePublished": "2015-09-20",
+ "dateCreated": "2015-09-20",
+ "dateModified": "2015-09-20",
+ "description": "We love to do stuff to help people and stuff",
+ "articleBody": "You can paste your entire post in here, and yes it can get really really long."
  };
 var script = document.createElement(&#39;script&#39;);
-script.type = &quot;application/ld+json&quot;;
+script.type = "application/ld+json";
 script.innerHTML = JSON.stringify(data);
 document.getElementsByTagName(&#39;head&#39;)[0].appendChild(script);
 });
