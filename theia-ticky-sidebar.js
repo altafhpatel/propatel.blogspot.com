@@ -1,4 +1,3 @@
-//<![CDATA[ 
 /*! Theia Sticky Sidebar | v1.7.0 - https://github.com/WeCodePixels/theia-sticky-sidebar */
 (function($){
 
