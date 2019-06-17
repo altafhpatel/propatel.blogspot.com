@@ -1,4 +1,5 @@
-var Stitle=document.querySelector('.item-post-inner .post-title').innerText;
+windows.onload = function(){
+ var Stitle=document.querySelector('.item-post-inner .post-title').innerText;
 var Simage=document.querySelector('.item-post-inner img').getAttribute('src');
 var Scontent=document.querySelector('.post-content).innerText;
 console.log(Simage);
@@ -36,3 +37,4 @@ script.type = &quot;application/ld+json&quot;;
 script.innerHTML = JSON.stringify(data);
 document.getElementsByTagName(&#39;head&#39;)[0].appendChild(script);
 });
+}
