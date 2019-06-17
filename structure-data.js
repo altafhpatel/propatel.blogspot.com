@@ -1,9 +1,9 @@
 window.addEventListener('DOMContentLoaded', function() {
-data = { "@context": "https://schema.org", 
+data = { 
+"@context": "https://schema.org", 
  "@type": "Article",
  "headline": Stitle,
- //"alternativeHeadline": "This article is also about robots and stuff",
- "image": Simage,
+ "image": '"'+Simage,
  "author": "Altaf Hussain Patel", 
  "genre": "search engine optimization", 
  "keywords": "seo sales b2b", 
