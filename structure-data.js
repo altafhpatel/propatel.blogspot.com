@@ -1,5 +1,5 @@
 window.addEventListener('DOMContentLoaded', function() {
-data = { 
+var data = { 
 "@context": "https://schema.org", 
  "@type": "Article",
  "headline": "Stitle",
