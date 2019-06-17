@@ -1,4 +1,4 @@
-window.addEventListener(&#39;DOMContentLoaded&#39;, function() {
+window.addEventListener('DOMContentLoaded', function() {
 data = { "@context": "https://schema.org", 
  "@type": "Article",
  "headline": Stitle,
@@ -27,8 +27,8 @@ data = { "@context": "https://schema.org",
  "description": "We love to do stuff to help people and stuff",
  "articleBody": "You can paste your entire post in here, and yes it can get really really long."
  };
-var script = document.createElement(&#39;script&#39;);
+var script = document.createElement('script');
 script.type = "application/ld+json";
 script.innerHTML = JSON.stringify(data);
-document.getElementsByTagName(&#39;head&#39;)[0].appendChild(script);
+document.getElementsByTagName('head')[0].appendChild(script);
 });
