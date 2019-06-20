@@ -27,11 +27,8 @@ var data = {
  "description": "We love to do stuff to help people and stuff",
  "articleBody": "You can paste your entire post in here, and yes it can get really really long."
  };
-
-
 var script = document.createElement('script');
 script.type = "application/ld+json";
 script.innerHTML = JSON.stringify(data);
 document.getElementsByTagName('head')[0].appendChild(script);
  });
-
