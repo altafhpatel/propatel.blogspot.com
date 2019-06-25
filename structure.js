@@ -8,14 +8,14 @@ var data = {
  "genre": Sgenre, 
  "keywords": "seo sales b2b", 
  "wordcount": "1120",
-//"publisher": {
-   // "@type": "Organization",
-   // "name": "Google",
-   // "logo": {
-   //   "@type": "ImageObject",
-  //    "url": "https://google.com/logo.jpg"
-  //  }
- // },
+"publisher": {
+    "@type": "Organization",
+    "name": "Pro Patel",
+   "logo": {
+      "@type": "ImageObject",
+     "url": "https://1.bp.blogspot.com/-LsQZq_7SrGE/XRHRqm1AGuI/AAAAAAAAA1Y/2jU64WWolgg0GPDB89ANYsKotWLcinOtgCLcBGAs/s1600/pro-patel-logo.jpg"
+    }
+  },
  "url": "http://www.example.com",
    "mainEntityOfPage": {
     "@type": "WebPage",
