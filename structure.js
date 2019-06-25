@@ -7,7 +7,7 @@ var data = {
  "author": "Altaf Hussain Patel", 
  "genre": Sgenre, 
  "keywords": "seo sales b2b", 
- "wordcount": "1120",
+ "wordcount": Swords,
 "publisher": {
     "@type": "Organization",
     "name": "Pro Patel",
