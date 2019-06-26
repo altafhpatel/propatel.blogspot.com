@@ -23,7 +23,7 @@ var data = {
  "description": Sdescription,
  "articleBody": Sbody
  };
- console.log(JSON.stringify(data));
+ //console.log(JSON.stringify(data));
 var script = document.createElement('script');
 script.type = "application/ld+json";
 script.innerHTML = JSON.stringify(data);
