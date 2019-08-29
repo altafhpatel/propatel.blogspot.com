@@ -18,4 +18,4 @@ Categories we written under and the number of counts in the brackets which shows
 
 
 <h3>About Author</h3>
-I'm Altaf Hussain Patel the author of this repository and fond of writing 
+I'm <a href="https://altafhpatel.blogspot.com">Altaf Hussain Patel</a> the author of this repository and fond of writing having skills of Front end design and wordpress development which i have wrote about many different topics as mention the links above in the category section. I have education of  BS Computer Science from <a href="http://vu.edu.pk">Virtual university of pakistan</a>. And the topics which i learned from the university and write them about them.  
