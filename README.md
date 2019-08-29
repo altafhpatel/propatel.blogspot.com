@@ -17,3 +17,5 @@ Categories we written under and the number of counts in the brackets which shows
 5. <a href="https://propatel.blogspot.com/search/label/Wordpress" target="_blank">Wordpress(25)
 
 
+<h3>About Author</h3>
+I'm Altaf Hussain Patel the author of this repository and fond of writing 
