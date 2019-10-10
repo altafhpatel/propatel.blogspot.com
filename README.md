@@ -5,7 +5,7 @@ We have created this repository in order to embed our scrips files which are of 
 
 We use another services <a href="https://cdn.jsdelivr.net" rel="nofollow">JSdelivr</a> which helps us to deliver github scripts and save them to their own server. After 24 hour they grab fresh copy from github and save on their own server. That's how <a href="https://www.propatel.com">propatel.com</a> provides you different type of education topic so you can even go further in your studies. 
 
-<h2>What is <a href="https://propatel.blogspot.com">Propatel.blogspot.com</a>?</h2>
+<h2>What is <a href="https://www.propatel.com">Propatel.com</a>?</h2>
 We have an education blog which is popular among student where they can find different stuff according to their choices and assignment and thesis helps.
 We have different categories which are listed below kindly go through them as well as you can even suggest and ask us to write content according to your need.
 
