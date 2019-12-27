@@ -1,4 +1,4 @@
-window.addEventListener('load', function() {
+window.addEventListener('DOMContentLoaded', function(){
 if(post_id.length > 0){
 	jsonArray = "";
 	$.get('https://www.googleapis.com/blogger/v3/blogs/2380877717001335880/posts/'+post_id+'?key=AIzaSyDU4zZgOm6rPR_6RSHS30E8hzg-dk23uyc', function( data) {
