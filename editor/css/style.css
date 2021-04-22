@@ -9,7 +9,7 @@
 .keyboard-container{padding-top:10px}
 .keyboard a, .keyboard a:hover{text-decoration: none;display: block}
 
-#toPng{font-family:mehr;text-align:right;background-color:transparent}
+#toPng{text-align:right;background-color:transparent}
 
 .topngtoogle{font-size:200px !important;line-height:400px !important;text-align: left;min-width: 5000px;height: auto;overflow: scroll;letter-spacing:auto;padding:10px}
 
