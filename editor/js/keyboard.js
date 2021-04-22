@@ -110,78 +110,8 @@ if(alpha=="bspace")
 {varbk=document.getElementById('txt1').value;varbk=varbk.substring(0,varbk.length-1);document.getElementById('txt1').value=varbk;}
 if(alpha=="dash")
 {document.getElementById('txt1').value=document.getElementById('txt1').value+"۔";}
-if(alpha=="salam")
-{document.getElementById('txt1').value=document.getElementById('txt1').value+"\rاسلام علیکم";}
-if(alpha=="دل کی گہرائیوں سے دلی عید مبارک")
-{document.getElementById('txt1').value=document.getElementById('txt1').value+"\rدل کی گہرائیوں سے دلی عید مبارک۔";}
-if(alpha=="ہم سب کی طرف سے دلی عید مبارک")
-{document.getElementById('txt1').value=document.getElementById('txt1').value+"\rہم سب کی طرف سے دلی عید مبارک۔";}
-if(alpha=="آپ کو نیک دعاؤں اور تمناؤں کے ساتھ عید مبارک")
-{document.getElementById('txt1').value=document.getElementById('txt1').value+"\rآپ کو نیک دعاؤں اور تمناؤں کے ساتھ عید مبارک۔";}
-if(alpha=="آپ کو خوشیوں سے بھرپور عید مبارک ہو")
-{document.getElementById('txt1').value=document.getElementById('txt1').value+"\rآپ کو خوشیوں سے بھرپور عید مبارک ہو۔";}
-if(alpha=="رحمتوں اور برکتوں والا مہینہ مبارک ہو")
-{document.getElementById('txt1').value=document.getElementById('txt1').value+"\rرحمتوں اور برکتوں والا مہینہ مبارک ہو۔";}
-if(alpha=="مغفرتوں والا مہینہ مبارک ہو")
-{document.getElementById('txt1').value=document.getElementById('txt1').value+"\rمغفرتوں والا مہینہ مبارک ہو۔";}
-if(alpha=="اﷲ آپ کو اس مہینے میں ہزاروں خوشیاں عطا فرمائے")
-{document.getElementById('txt1').value=document.getElementById('txt1').value+"\rاﷲ آپ کو اس مہینے میں ہزاروں خوشیاں عطا فرمائے۔";}
-if(alpha=="اﷲ آپ کو اس مہینے میں ہزاروں برکتیں و نعمتیں عطا فرمائے")
-{document.getElementById('txt1').value=document.getElementById('txt1').value+"\rاﷲ آپ کو اس مہینے میں ہزاروں برکتیں و نعمتیں عطا فرمائے۔";}
-if(alpha=="سالگرہ مبارک")
-{document.getElementById('txt1').value=document.getElementById('txt1').value+"\rسالگرہ مبارک";}
-if(alpha=="آپ کو سالگرہ کا دن مبارک ہو")
-{document.getElementById('txt1').value=document.getElementById('txt1').value+"\rآپ کو سالگرہ کا دن مبارک ہو";}
-if(alpha=="میری دعا ہے کہ آپ کو ہزاروں سالگرہ نصیب ہوں")
-{document.getElementById('txt1').value=document.getElementById('txt1').value+"\rمیری دعا ہے کہ آپ کو ہزاروں سالگرہ نصیب ہوں";}
-if(alpha=="مجھے امید ہے آپ کی زندگی ہمیشہ خوشیوں سے بھری ہوگی")
-{document.getElementById('txt1').value=document.getElementById('txt1').value+"\rمجھے امید ہے آپ کی زندگی ہمیشہ خوشیوں سے بھری ہوگی";}
-if(alpha=="کاش آپ ابھی میری زندگی میں آجاؤ")
-{document.getElementById('txt1').value=document.getElementById('txt1').value+"\rکاش آپ ابھی میری زندگی میں آجاؤ";}
-if(alpha=="آپ کی یاد دل کو تڑپا رہی ہے")
-{document.getElementById('txt1').value=document.getElementById('txt1').value+"\rآپ کی یاد دل کو تڑپا رہی ہے";}
-if(alpha=="آدھے آدھے تھے ہم دونوں مل جاتے تو پورے ہوتے")
-{document.getElementById('txt1').value=document.getElementById('txt1').value+"\rآدھے آدھے تھے ہم دونوں\rمل جاتے تو پورے ہوتے";}
-if(alpha=="آپ کی نظرِ کرم کا شکریہ")
-{document.getElementById('txt1').value=document.getElementById('txt1').value+"\rآپ کی نظرِ کرم کا شکریہ";}
-if(alpha=="ہمیں یاد کرنے پر دل و جان سے آپ کا شکریہ")
-{document.getElementById('txt1').value=document.getElementById('txt1').value+"\rہمیں یاد کرنے پر دل و جان سے آپ کا شکریہ";}
-if(alpha=="میں بہت خوش قسمت ہوں کہ مجھے آپ جیسا بہترین دوست ملا")
-{document.getElementById('txt1').value=document.getElementById('txt1').value+"\rمیں بہت خوش قسمت ہوں کہ مجھے آپ جیسا بہترین دوست ملا";}
-if(alpha=="میں اﷲ سے دعا کرتا ہوں کہ میری اور آپ کی دوستی ہمیشہ سلامت رہے")
-{document.getElementById('txt1').value=document.getElementById('txt1').value+"\rمیں اﷲ سے دعا کرتا ہوں کہ میری اور آپ کی دوستی ہمیشہ سلامت رہے";}
-if(alpha=="خدا کرے میری اور آپ کی دوستی کو کسی کی نظر نہ لگے")
-{document.getElementById('txt1').value=document.getElementById('txt1').value+"\rخدا کرے میری اور آپ کی دوستی کو کسی کی نظر نہ لگے";}
-if(alpha=="آپ کو یہ کامیابی مبارک ہو")
-{document.getElementById('txt1').value=document.getElementById('txt1').value+"\rآپ کو یہ کامیابی مبارک ہو";}
-if(alpha=="اﷲ آپ کو ایسی ہزار کامیابیاں عطا فرمائے")
-{document.getElementById('txt1').value=document.getElementById('txt1').value+"\rاﷲ آپ کو ایسی ہزار کامیابیاں عطا فرمائے";}
-if(alpha=="جانتا ہوں آپ کا دل بہت بڑا ہے اس لیے آپ میری خطا کو نظر انداز کر کے مجھے معاف کر دیں گے")
-{document.getElementById('txt1').value=document.getElementById('txt1').value+"\rجانتا ہوں آپ کا دل بہت بڑا ہے اس لیے آپ میری خطا کو نظر انداز کر کے مجھے معاف کر دیں گے";}
-if(alpha=="آپ بہت اچھے ہیں آپ سے معافی کی امید رکھتا ہوں")
-{document.getElementById('txt1').value=document.getElementById('txt1').value+"\rآپ بہت اچھے ہیں آپ سے معافی کی امید رکھتا ہوں";}
-if(alpha=="میں اپنی خطا مانتے ہوئے آپ سے معافی کا طلبگار ہوں")
-{document.getElementById('txt1').value=document.getElementById('txt1').value+"\rمیں اپنی خطا مانتے ہوئے آپ سے معافی کا طلبگار ہوں";}
-if(alpha=="میں دعا گو ہوں کہ آپ ہمیشہ مسکراہٹوں کے موتی بکھیرتے رہیں")
-{document.getElementById('txt1').value=document.getElementById('txt1').value+"\rمیں دعا گو ہوں کہ آپ ہمیشہ مسکراہٹوں کے موتی بکھیرتے رہیں";}
-if(alpha=="زندگی ہمیشہ آپ کی مسکراتے ہوئے گزرے")
-{document.getElementById('txt1').value=document.getElementById('txt1').value+"\rزندگی ہمیشہ آپ کی مسکراتے ہوئے گزرے";}
-if(alpha=="ہم سب کی طرف سے آپکو عید مبارک")
-{document.getElementById('txt1').value="ہم سب کی طرف سے آپکو عید مبارک";}
-if(alpha=="ہم سب کی طرف سے آپکو عید مبارک")
-{document.getElementById('txt1').value="ہم سب کی طرف سے آپکو عید مبارک";}
-if(alpha=="ہم سب کی طرف سے آپکو عید مبارک")
-{document.getElementById('txt1').value="ہم سب کی طرف سے آپکو عید مبارک";}
-if(alpha=="ہم سب کی طرف سے آپکو عید مبارک")
-{document.getElementById('txt1').value="ہم سب کی طرف سے آپکو عید مبارک";}
-if(alpha=="دل کی گہرائیوں سے عید مبارک")
-{document.getElementById('txt1').value="دل کی گہرائیوں سے عید مبارک";}
-if(alpha=="ہم سب کی طرف سے دلی عید مبارک")
-{document.getElementById('txt1').value="ہم سب کی طرف سے دلی عید مبارک";}
-if(alpha=="نیک تمناؤں کے ساتھ عید مبارک")
-{document.getElementById('txt1').value="نیک تمناؤں کے ساتھ عید مبارک";}
-if(alpha=="آپ کو خوشیوں بھری عید مبارک ہو")
-{document.getElementById('txt1').value="آپ کو خوشیوں بھری عید مبارک ہو";}}
+
+}
 function hurf2(alpha)
 {if(alpha=="alifmada")
 {document.getElementById('txt2').value=document.getElementById('txt2').value+"آ";}
