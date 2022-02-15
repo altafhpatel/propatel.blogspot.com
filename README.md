@@ -10,12 +10,13 @@ We have an education blog which is popular among student where they can find dif
 We have different categories which are listed below kindly go through them as well as you can even suggest and ask us to write content according to your need.
 
 Categories we written under and the number of counts in the brackets which shows the topics we write about.
-1. <a href="https://www.propatel.com/search/label/Computer-Networking" target="_blank">Computer-Networking</a> (372)
-2. <a href="https://www.propatel.com/search/label/Databases-and-Applications" target="_blank">Databases-and-Applications</a> (168)
-3. <a href="https://www.propatel.com/search/label/Programming-and-design" target="_blank">Programming-and-design</a> (577)
-4. <a href="https://www.propatel.com/search/label/Web-Design-and-Development" target="_blank">Web-Design-and-Development</a> (146)
-5. <a href="https://www.propatel.com/search/label/Wordpress" target="_blank">Wordpress</a> (25)
-
+1. <a href="https://www.propatel.com/category/android" target="_blank">Android</a>
+2. <a href="https://www.propatel.com/category/computer-networking" target="_blank">Computer Networking</a>
+3. <a href="https://www.propatel.com/category/programming-and-database" target="_blank">Database & Programming</a>
+4. <a href="https://www.propatel.com/category/gadget-reviews" target="_blank">Gadget Reviewst</a>
+5. <a href="https://www.propatel.com/category/iphone-and-mac" target="_blank">iPhone & Mac</a>
+6. <a href="https://www.propatel.com/category/animals-and-pets" target="_blank">Animals & Pets</a>
+7. <a href="https://www.propatel.com/category/education-and-reference/" target="_blank">Education & Reference</a>
 
 <h3>About Author</h3>
-I'm <a href="https://altafhpatel.blogspot.com">Altaf Hussain Patel</a> the author of this repository and fond of writing having skills of Front end design and wordpress development which i have wrote about many different topics as mention the links above in the category section. I have education of  BS Computer Science from <a href="http://vu.edu.pk" rel="nofollow">Virtual university of pakistan</a>. And the topics which i learned from the university and write them about them.  
+I'm <a href="https://altafhpatel.blogspot.com" target="_blank">Altaf Hussain Patel</a> the author of this repository and fond of writing having skills of Front end design and wordpress development which i have wrote about many different topics as mention the links above in the category section. I have education of  BS Computer Science from <a href="http://vu.edu.pk" rel="nofollow">Virtual university of pakistan</a>. And the topics which i learned from the university and write them about them.  
